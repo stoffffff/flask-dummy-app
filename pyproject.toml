@@ -1,5 +1,5 @@
 [project]
-name = "flask-dummy-app"
+name = "hello"
 version = "1.0.0"
 dependencies = []
 
